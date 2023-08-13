@@ -39,6 +39,8 @@ img {
 
 body {
     background-image: url(images/bg-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: var(--clr-violet);
     padding: 2em;
     color: #fff;
